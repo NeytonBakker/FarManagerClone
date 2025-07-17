@@ -16,7 +16,7 @@
 ## ⚙️ Используемые технологии
 
 - Язык: **C++**
-- Низкоуровневая отрисовка: **x86 Assembly**
+- Низкоуровневая отрисовка: **x64 Assembly**
 - Компилятор: **MSVC** (Visual Studio)
 - ОС: **Windows**
 - Используются функции WinAPI: `ReadConsoleInput`, `WriteConsoleOutput`, `GetConsoleScreenBufferInfo` и др.
